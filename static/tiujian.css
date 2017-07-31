@@ -1,0 +1,59 @@
+.hello .tiujian .tiujian-li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.6rem 0.6rem;
+  border-bottom: 1px solid #ccc; }
+  .hello .tiujian .tiujian-li .tiujian-li-div1 {
+    width: 10rem;
+    font-size: 0.8rem; }
+    .hello .tiujian .tiujian-li .tiujian-li-div1 p {
+      line-height: 0.9rem; }
+  .hello .tiujian .tiujian-li .tiujian-li-div2 {
+    width: 4.5rem; }
+    .hello .tiujian .tiujian-li .tiujian-li-div2 img {
+      width: 100%;
+      display: block; }
+.hello .tiujian .re {
+  display: flex;
+  font-size: 0.6rem;
+  margin-top: 0.4rem;
+  align-items: center; }
+  .hello .tiujian .re b {
+    border: 1px solid red;
+    display: block;
+    color: red;
+    padding: 0.1rem; }
+  .hello .tiujian .re span {
+    color: #C3C3C3;
+    margin-left: 0.25rem; }
+  .hello .tiujian .re i {
+    color: #C3C3C3;
+    margin-left: 0.25rem; }
+  .hello .tiujian .re em {
+    color: #C3C3C3;
+    margin-left: 0.25rem; }
+.hello .tiujian .tiujian-li1 {
+  padding: 0.6rem 0.6rem;
+  border-bottom: 1px solid #CCCCCC; }
+  .hello .tiujian .tiujian-li1 .tiujian-li1-div {
+    font-size: 0.8rem;
+    line-height: 0.9rem; }
+  .hello .tiujian .tiujian-li1 .tiujian-li1-ul {
+    display: flex;
+    margin-top: 0.5rem; }
+    .hello .tiujian .tiujian-li1 .tiujian-li1-ul li {
+      margin: 0;
+      width: calc(100%/3); }
+      .hello .tiujian .tiujian-li1 .tiujian-li1-ul li img {
+        width: 100%; }
+
+.ding {
+  height: 2rem;
+  width: 100%;
+  background: yellow;
+  position: fixed;
+  bottom: 0;
+  line-height: 2rem;
+  text-align: end; }
+
+/*# sourceMappingURL=tiujian.css.map */
